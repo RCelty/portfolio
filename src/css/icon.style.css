@@ -1,0 +1,26 @@
+.icon {
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  &.phone {
+    background-image: url("../assets/icons/phone-svgrepo-com.svg");
+  }
+  &.email {
+    background-image: url("../assets/icons/email-1-svgrepo-com.svg");
+  }
+  &.gender {
+    background-image: url("../assets/icons/gender-mark-2-svgrepo-com.svg");
+  }
+  &.birthday {
+    background-image: url("../assets/icons/birthday-cake-celebration-svgrepo-com.svg");
+  }
+  &.location {
+    background-image: url("../assets/icons/address-pin-location-svgrepo-com.svg");
+  }
+  &.github {
+    background-image: url("../assets/icons/github-142-svgrepo-com.svg");
+  }
+  &.linkedin {
+    background-image: url("../assets/icons/linkedin-svgrepo-com.svg");
+  }
+}
